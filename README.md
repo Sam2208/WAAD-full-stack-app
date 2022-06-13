@@ -8,4 +8,4 @@ In your terminal:
 $ cd WAAD-full-stack-app
 ```
 
-Once inside, as mentioned, follow the backend and frontend folders respectively.
+Once inside, as mentioned, enter the backend and frontend folders and run the commands respectively.
